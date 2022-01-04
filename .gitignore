@@ -1,0 +1,6 @@
+/bin/
+.settings/
+libs/
+src/me/glassbilen/client/.gitignore
+src/me/glassbilen/client/classloader/.gitignore
+src/me/glassbilen/client/logging/.gitignore
